@@ -1,0 +1,7 @@
+tqdm
+pandas
+scipy
+pyarrow
+spacy
+jupyter
+seaborn
