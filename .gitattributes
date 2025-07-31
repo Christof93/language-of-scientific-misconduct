@@ -1,3 +1,5 @@
 24_12_31_reference_articles_most_cited.gzip filter=lfs diff=lfs merge=lfs -text
 25_02_05_retractions_abstracts_cleaned.gzip filter=lfs diff=lfs merge=lfs -text
 analyse_citations.ipynb filter=lfs diff=lfs merge=lfs -text
+inference/preds_paper_mill_Abstract_KISTI-AI_Scideberta-full filter=lfs diff=lfs merge=lfs -text
+inference/preds_random_content_Abstract_KISTI-AI_Scideberta-full filter=lfs diff=lfs merge=lfs -text
